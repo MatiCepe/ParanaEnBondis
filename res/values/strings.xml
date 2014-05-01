@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Parana En Bondi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="btnHorariosPorLinea">Horarios Por Línea</string>
+    <string name="btnQueMeTomo">Que Línea me tomo?</string>
+    <string name="btnDondeLoTomo">Dónde me tomo el bondi?</string>
+    <string name="btnAcercaDe">Acerca de PeB</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="title_activity_acerca_de">AcercaDeActivity</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="txtTextoDelAcercaDe">Esta Aplicacion fue creada por Matias Cepellotti. Todos los derechos reservados.</string>
+
+</resources>
